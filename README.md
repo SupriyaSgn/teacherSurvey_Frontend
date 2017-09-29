@@ -1,1 +1,1 @@
-# teacherSurvey_Frontend
+# AngularJS UI-itemsSellPurchase Application
